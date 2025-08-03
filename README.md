@@ -39,4 +39,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 💡 About Me
 
-Hello! I'm **Christopher E. Norman**, and aspiring Data Analyst and Engineer. My professional background includes over 10 years of Call Center and Office Management (soft-skills), in addition to a few years of Data Analysis related roles. I am excited to begin my career shift to 100% Data Specializtion, and look forward to growing my project-portfolio here on GIT!
+Hello! I'm **Christopher E. Norman**, an aspiring Data Analyst/Engineer. My professional background includes over 10 years of Call Center and Office Management (soft-skills), in addition to a few years of Data Analysis related roles. I am excited to begin my career shift to 100% Data Specializtion, and look forward to growing my project-portfolio here on GIT!
